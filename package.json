@@ -8,7 +8,7 @@
     "npm": ">=10.0.0"
   },
   "dependencies": {
-    "@dinamonetworks/hsm-dinamo": "4.9.1",
+    "@dinamonetworks/hsm-dinamo": "4.15.0",
     "@hathor/healthcheck-lib": "0.1.0",
     "@hathor/wallet-lib": "2.0.1",
     "axios": "1.7.7",
